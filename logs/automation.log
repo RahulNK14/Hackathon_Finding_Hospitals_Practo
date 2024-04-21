@@ -1,0 +1,12 @@
+16:53:19.634 [main] INFO  factory.BaseClass - selecting heath and wellness
+16:53:21.403 [main] INFO  factory.BaseClass - verifying with the valid inputs
+16:53:23.610 [main] INFO  factory.BaseClass - choosing the organization size and interested option
+16:53:27.826 [main] INFO  factory.BaseClass - verifying the phone field by giving invalid input format
+16:53:27.826 [main] INFO  factory.BaseClass - verifying the mail field with the valid input : 1
+16:53:29.975 [main] INFO  factory.BaseClass - verifying the mail field with the valid input : 2
+16:53:32.101 [main] INFO  factory.BaseClass - verifying the mail field with the valid input : 3
+16:53:34.228 [main] INFO  factory.BaseClass - verifying the mail field with the valid input : 4
+16:53:41.043 [main] INFO  factory.BaseClass - verifying the visibility of schedule a demo visibilty
+16:53:53.140 [main] INFO  factory.BaseClass - getting the success message
+16:53:53.271 [main] INFO  factory.BaseClass - verifying the success message
+16:53:53.437 [main] INFO  factory.BaseClass - Verified the Thank You message

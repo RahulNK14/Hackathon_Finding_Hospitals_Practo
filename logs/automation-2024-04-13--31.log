@@ -1,0 +1,57 @@
+22:26:40.935 [main] INFO  factory.BaseClass - verifying the email field with the invalid input no : 2
+22:26:43.434 [main] INFO  factory.BaseClass - verifying the email field with the invalid input no : 3
+22:26:57.119 [main] INFO  factory.BaseClass - verifying the visibility of schedule a demo visibilty
+22:27:01.733 [main] INFO  factory.BaseClass - --------------- Verifying the Thankyou message after applying for a demo has Started ---------------------
+22:27:06.607 [main] INFO  factory.BaseClass - Navigated to PRACTO Homepage
+22:27:07.000 [main] INFO  factory.BaseClass - navigating to the corporate
+22:27:07.312 [main] INFO  factory.BaseClass - selecting heath and wellness
+22:27:10.989 [main] INFO  factory.BaseClass - verifying with the valid inputs
+22:27:13.623 [main] INFO  factory.BaseClass - choosing the organization size and interested option
+22:27:18.091 [main] INFO  factory.BaseClass - verifying the phone field by giving invalid input format
+22:27:18.092 [main] INFO  factory.BaseClass - verifying the mail field with the valid input : 1
+22:27:20.522 [main] INFO  factory.BaseClass - verifying the mail field with the valid input : 2
+22:27:22.974 [main] INFO  factory.BaseClass - verifying the mail field with the valid input : 3
+22:27:25.556 [main] INFO  factory.BaseClass - verifying the mail field with the valid input : 4
+22:27:34.250 [main] INFO  factory.BaseClass - verifying the visibility of schedule a demo visibilty
+22:27:46.476 [main] INFO  factory.BaseClass - getting the success message
+22:27:46.820 [main] INFO  factory.BaseClass - verifying the success message
+22:27:47.282 [main] INFO  factory.BaseClass - Verified the Thank You message
+11:27:51.068 [main] INFO  factory.BaseClass - Running through chrome
+11:27:51.087 [main] INFO  factory.BaseClass - deleting all the cookies
+11:27:51.093 [main] INFO  factory.BaseClass - applying the implicit wait
+11:27:51.327 [main] INFO  factory.BaseClass - --------------- Fetching doctors details has Started ---------------------
+11:27:55.807 [main] INFO  factory.BaseClass - Navigated to PRACTO Homepage
+11:27:55.990 [main] INFO  factory.BaseClass - Entering the search data
+11:28:02.477 [main] INFO  factory.BaseClass - Entered the City name
+11:28:08.691 [main] INFO  factory.BaseClass - Entered the Speciality name
+11:28:08.691 [main] INFO  factory.BaseClass - navigating to the doctors page
+11:28:14.094 [main] INFO  factory.BaseClass - applying the filters
+11:28:21.326 [main] INFO  factory.BaseClass - Applied Patient Stories
+11:28:28.745 [main] INFO  factory.BaseClass - Applied Experience filter
+11:28:43.839 [main] INFO  factory.BaseClass - Applied All Filters
+11:28:47.879 [main] INFO  factory.BaseClass - Clicked reset button
+11:28:56.244 [main] INFO  factory.BaseClass - Applied Patient Stories
+11:29:03.598 [main] INFO  factory.BaseClass - Applied Experience filter
+11:29:24.122 [main] INFO  factory.BaseClass - Applied All Filters
+11:29:27.168 [main] INFO  factory.BaseClass - --------------- Fetching surgeries has Started ---------------------
+11:29:27.182 [main] INFO  factory.BaseClass - --------------- Verifying the schedule demo button has Started ---------------------
+11:29:27.198 [main] INFO  factory.BaseClass - --------------- Verifying the Thankyou message after applying for a demo has Started ---------------------
+11:30:06.560 [main] INFO  factory.BaseClass - Running through chrome
+11:30:06.590 [main] INFO  factory.BaseClass - deleting all the cookies
+11:30:06.600 [main] INFO  factory.BaseClass - applying the implicit wait
+11:30:06.983 [main] INFO  factory.BaseClass - --------------- Fetching doctors details has Started ---------------------
+11:30:12.101 [main] INFO  factory.BaseClass - Navigated to PRACTO Homepage
+11:30:12.446 [main] INFO  factory.BaseClass - Entering the search data
+11:30:20.019 [main] INFO  factory.BaseClass - Entered the City name
+11:30:26.785 [main] INFO  factory.BaseClass - Entered the Speciality name
+11:30:26.785 [main] INFO  factory.BaseClass - navigating to the doctors page
+11:30:32.424 [main] INFO  factory.BaseClass - applying the filters
+11:30:54.504 [main] INFO  factory.BaseClass - --------------- Fetching surgeries has Started ---------------------
+11:30:54.849 [main] INFO  factory.BaseClass - --------------- Verifying the schedule demo button has Started ---------------------
+11:30:54.880 [main] INFO  factory.BaseClass - --------------- Verifying the Thankyou message after applying for a demo has Started ---------------------
+11:31:16.855 [main] INFO  factory.BaseClass - Running through chrome
+11:31:16.887 [main] INFO  factory.BaseClass - deleting all the cookies
+11:31:16.897 [main] INFO  factory.BaseClass - applying the implicit wait
+11:31:17.247 [main] INFO  factory.BaseClass - --------------- Fetching doctors details has Started ---------------------
+11:31:22.143 [main] INFO  factory.BaseClass - Navigated to PRACTO Homepage
+11:31:22.398 [main] INFO  factory.BaseClass - Entering the search data
